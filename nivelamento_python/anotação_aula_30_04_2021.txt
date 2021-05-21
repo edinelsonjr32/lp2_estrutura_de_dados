@@ -1,0 +1,52 @@
+Compilador Python:
+Analisador sintático:
+Ele analisa as palavras reservadas(def, if, print(), input())
+Analisador Léxico:
+ele vai verificar a regra de uso daquela palavra
+Parser:
+Regras de criação de palavras na programação:
+Essa regra é usada para criar palavras relacionadas
+a arquivo, classes, variáveis, funções e etc.
+-> Sempre iniciar com letra maiuscula a palavra
+	variavel teste = VariavelTeste
+-> todas as letras minúsculas, separadas por _
+	variavel teste = variavel_teste
+-> todas letras maiusculas, separados por _
+	variavel teste = VARIAVEL_TESTE
+-> a primeira palavra minuscula, as próximas se iniciam com letra maiuscula
+	variavel teste = variavelTeste
+case sensitive = diferencia palavras 
+Edinelson
+edinelson
+EDinELSON
+print(nome)
+
+nome = "edinelson"
+
+
+
+Plugins VsCode
+
+Python
+Code Spell checker
+Portuguese Code Spell
+TabNine
+Atom Theme
+Prettier
+Beautify
+Auto Rename
+bracket pair colorize
+
+
+
+if (teste == 1):
+	
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+nome = "sdadasd"
+
+print(nome)
+
